@@ -1,4 +1,4 @@
-<h1 align="center">Raghav S</h1>
+<h1 align="center">Raghavender Chari</h1>
 <h3 align="center">DevOps Engineer | Cloud | Automation | Scalable Systems</h3>
 
 <p align="center">
