@@ -20,7 +20,7 @@ Actively working on container orchestration and cloud-native architectures using
 
 <hr>
 
-<h2>🛠️ Core Competencies</h2>
+<h2>Core Competencies</h2>
 
 <ul>
   <li><b>Cloud Platforms:</b> AWS (EC2, S3, IAM, VPC), Microsoft Azure (VMs, Storage, Networking)</li>
@@ -34,7 +34,7 @@ Actively working on container orchestration and cloud-native architectures using
 
 <hr>
 
-<h2>DevOps Expertise⚙️ </h2>
+<h2>DevOps Expertise </h2>
 
 <ul>
   <li>Designing and implementing end-to-end CI/CD pipelines</li>
@@ -68,7 +68,7 @@ Sharing practical DevOps projects, real-world implementations, and hands-on tuto
 </p>
 
 <p>
-👉 <a href="https://www.youtube.com/channel/UCzosWPeCTNTSvM-fkNwwRhw" target="_blank">
+ <a href="https://www.youtube.com/channel/UCzosWPeCTNTSvM-fkNwwRhw" target="_blank">
 YouTube Channel
 </a>
 </p>
