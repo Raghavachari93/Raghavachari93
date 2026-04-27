@@ -88,7 +88,7 @@ YouTube Channel
 
 <h2>Contact</h2>
 <ul>
-  <li>9700231919</li>
+  
   <li>raghavachari93@gmail.com</li>
   </ul>
 <p>
